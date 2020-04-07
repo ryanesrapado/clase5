@@ -10,6 +10,12 @@ import java.io.BufferedReader
 import java.io.InputStream
 import java.io.InputStreamReader
 
+/**
+ * Richard Yanes Rapado
+ * https://github.com/ryanesrapado/clase5.git
+ * git config --global user.email "ryanesr9007@gmail.com" git config --global user.name "Richard Yanes"
+ */
+
 class MainActivity : AppCompatActivity() {
 
     @RequiresApi(Build.VERSION_CODES.N)
@@ -38,4 +44,3 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
-//git config --global user.email "ryanesr9007@gmail.com" git config --global user.name "Richard Yanes"
